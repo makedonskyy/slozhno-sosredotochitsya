@@ -9,13 +9,13 @@
   --gap-2: 10px;
   --font-family: "IBM Plex Mono", monospace;
   --bg-color: #000028;
-  --text-color: #F1B2CE;
-  --accent-color: #FF0070;
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
   --text-secondary: var(--bg-color);
-  --accent-hover: rgba(255, 0, 112, 0.40);
+  --accent-hover: rgba(255, 0, 112, 0.4);
   --bgc-image: url(../images/cover-image-dark.png);
-  --title-color: #DB00FF;
+  --title-color: #db00ff;
   --title-color-secondary: var(--accent-color);
   --title-shadow: var(--accent-color);
-  --button-border-color: rgba(255, 0, 112, 0.40);
+  --button-border-color: rgba(255, 0, 112, 0.4);
 }

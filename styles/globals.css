@@ -9,12 +9,12 @@
 }
 
 body {
-  max-inline-size: 1440px;  
+  max-inline-size: 1440px;
   min-inline-size: 375px;
   font-family: var(--font-family);
   font-size: 18px;
   font-style: normal;
-  font-weight: 400; 
+  font-weight: 400;
   line-height: 130%;
   color: var(--text-color);
   margin: 0 auto;
