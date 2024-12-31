@@ -3,10 +3,10 @@
 */
 
 :root {
-  --paddingSM: 10px;
-  --paddingMD: 20px;
+  --padding-small: 10px;
+  --padding-medium: 20px;
   --gap: 20px;
-  --gap-2: 10px;
+  --gap-small: 10px;
   --font-family: "IBM Plex Mono", monospace;
   --bg-color: #000028;
   --text-color: #f1b2ce;
