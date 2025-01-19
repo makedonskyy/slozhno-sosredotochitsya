@@ -195,7 +195,7 @@ header {
 }
 
 .content__text-link:hover {
-  border-bottom: 1px solid var(--title-color-secondary);
+  border-bottom: 1px solid var(--text-color);
 }
 
 .content__text-link:focus {
@@ -204,6 +204,10 @@ header {
 
 .content__text-link:focus-visible {
   border: 1px solid var(--text-color);
+}
+
+.content__text:not(:first-child) {
+  margin-top: 10px;
 }
 
 .gallery__content {
